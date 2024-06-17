@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShriyanYamali
+- 🌱 I’m currently learning: NLP
+- 📫 How to reach me: Email: srujanshriyan@gmail.com
+- ⚡ Website: https://shriyanyamali.github.io/
+- 😄 Pronouns: he/him/his
