@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ShriyanYamali
-- 🌱 I’m currently learning: NLP
+- 😄 Pronouns: he/him/his
+- 🌱 I’m currently learning: AI, JavaScript, Java, & Python
 - 📫 How to reach me: Email: srujanshriyan@gmail.com
 - ⚡ Website: https://shriyanyamali.github.io/
-- 😄 Pronouns: he/him/his
+- 😲 The most lines of code I have written for a project is: 42,331.
