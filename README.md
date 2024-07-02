@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShriyanYamali
 - 😄 Pronouns: he/him/his
-- 🌱 I’m currently learning: AI, JavaScript, Java, & Python
+- 🌱 I’m currently learning: Machine Learning, Web Development, & Python
 - 📫 How to reach me: srujanshriyan@gmail.com
 - ⚡ Website: https://shriyanyamali.github.io/
