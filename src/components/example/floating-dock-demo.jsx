@@ -36,7 +36,7 @@ export default function FloatingDockDemo() {
     },
     {
       title: "Aceternity UI",
-      icon: <div className="h-6 w-6 rounded-md bg-black dark:bg-white"></div>,
+      icon: <div className="h-4 w-4 rounded-md bg-black dark:bg-white"></div>,
       href: "#",
     },
     {
